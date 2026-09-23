@@ -1,0 +1,3 @@
+repository "mazeassignment/mazeassignment@1375986822284@cloud"
+  path "/"
+    smartbranch "/main"
