@@ -3,7 +3,7 @@ using UnityEngine;
 public class NewMonoBehaviourScript : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    void Update()
+    private void Update()
     {
         Vector3 move = Vector3.zero;
 
